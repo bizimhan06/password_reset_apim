@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+fastapi-mail
+httpx
+pydantic
